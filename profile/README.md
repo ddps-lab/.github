@@ -40,11 +40,11 @@ See all projects at [ddps.cloud/project](https://ddps.cloud/project).
 
 ## Contact
 
-📮 [ddpslab@hanyang.ac.kr](mailto:ddpslab@hanyang.ac.kr) · ☎️ +82-2-2220-2656<br/>
+📮 [ddpslab@hanyang.ac.kr](mailto:ddpslab@hanyang.ac.kr) <br/>
 🏫 Department of Data Science · Department of Artificial Intelligence, Hanyang University, Seoul
 
 Prospective students and collaborators are welcome to reach out by email.
 
 <div align="center">
-<sub>DDPS Lab · Hanyang University · <a href="https://ddps.cloud">ddps.cloud</a></sub>
+<sub>한양대학교 분산데이터처리시스템연구실· DDPS Lab · Hanyang University · <a href="https://ddps.cloud">ddps.cloud</a></sub>
 </div>
